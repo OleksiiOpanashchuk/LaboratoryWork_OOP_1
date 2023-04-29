@@ -15,3 +15,7 @@ This project involves the following tasks:
 5. Use % to reverse a three-digit number.
 
 
+# Requirements.
+To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
+
+
