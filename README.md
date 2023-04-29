@@ -19,3 +19,18 @@ This project involves the following tasks:
 To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
 
 
+# Results
+
+Task1 (Operation with numbers):
+
+
+Task2 (User):
+
+
+Task3 (Car):
+
+
+Task4 (Sentence):
+
+
+Task5 (Reverse) :
