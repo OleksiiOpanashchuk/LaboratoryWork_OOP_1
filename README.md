@@ -21,7 +21,7 @@ To run this project, you must have the following installed on your computer: Int
 
 # Results
 
-Task1 (Operation with numbers):
+Task1 (Operation with numbers): <br>
 ![LaboratoryWork_OOP_1 – OperationsWithNumbers java 29 04 2023 19_54_34](https://user-images.githubusercontent.com/132139593/235316777-a74b0ab1-b9bb-4e60-b6e8-d6c7a79d4e15.png)
 
 Task2 (User):
