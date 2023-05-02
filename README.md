@@ -19,7 +19,7 @@ This project involves the following tasks:
 To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
 
 # Build Instructions
-Clone the repository to your local machine using
+Clone the repository to your local machine using <br>
 git clone https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_1
 
 # Results
